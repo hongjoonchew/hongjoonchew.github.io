@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Hong Joon Chew
+### A Software Engineering Student in SJSU, 2018
 
 You can use the [editor on GitHub](https://github.com/hongjoonchew/hongjoonchew.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
