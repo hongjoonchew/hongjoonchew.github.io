@@ -1,5 +1,4 @@
 description: This website acts like a portfolio for all my repo projects.
-github_username: hongjoonchew
 defaults:
  -
   scope:
